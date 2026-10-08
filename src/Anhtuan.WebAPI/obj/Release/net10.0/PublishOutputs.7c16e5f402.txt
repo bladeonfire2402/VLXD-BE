@@ -1,0 +1,9 @@
+/Users/Shared/anhtuan-be-server/publish/Anhtuan.WebAPI
+/Users/Shared/anhtuan-be-server/publish/appsettings.Development.json
+/Users/Shared/anhtuan-be-server/publish/appsettings.json
+/Users/Shared/anhtuan-be-server/publish/Anhtuan.WebAPI.dll
+/Users/Shared/anhtuan-be-server/publish/Anhtuan.WebAPI.deps.json
+/Users/Shared/anhtuan-be-server/publish/Anhtuan.WebAPI.runtimeconfig.json
+/Users/Shared/anhtuan-be-server/publish/Anhtuan.WebAPI.pdb
+/Users/Shared/anhtuan-be-server/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/Shared/anhtuan-be-server/publish/Microsoft.OpenApi.dll

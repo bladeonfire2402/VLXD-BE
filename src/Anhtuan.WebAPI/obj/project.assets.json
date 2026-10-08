@@ -83,7 +83,7 @@
     ]
   },
   "packageFolders": {
-    "/Users/admin/.nuget/packages/": {}
+    "/Users/coding/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -91,11 +91,11 @@
       "projectUniqueName": "/Users/Shared/anhtuan-be-server/src/Anhtuan.WebAPI/Anhtuan.WebAPI.csproj",
       "projectName": "Anhtuan.WebAPI",
       "projectPath": "/Users/Shared/anhtuan-be-server/src/Anhtuan.WebAPI/Anhtuan.WebAPI.csproj",
-      "packagesPath": "/Users/admin/.nuget/packages/",
+      "packagesPath": "/Users/coding/.nuget/packages/",
       "outputPath": "/Users/Shared/anhtuan-be-server/src/Anhtuan.WebAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/admin/.nuget/NuGet/NuGet.Config"
+        "/Users/coding/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
